@@ -1,0 +1,677 @@
+[
+ {
+   "storeCode": "6ZN66E",
+   "managerCode": "4WYG35N",
+   "address": "9 Waywood Circle",
+   "city": "Phoenix",
+   "state": "AZ",
+   "zip": "85025",
+   "country": "United States"
+ },
+ {
+   "storeCode": "TQSV4S",
+   "managerCode": "T73SPZ,",
+   "address": "284 Vera Hill",
+   "city": "Newark",
+   "state": "NJ",
+   "zip": "07195",
+   "country": "United States"
+ },
+ {
+   "storeCode": "2E4XXS",
+   "managerCode": "JZYHSC",
+   "address": "7 Hovde Park",
+   "city": "Lincoln",
+   "state": "NE",
+   "zip": "68505",
+   "country": "United States"
+ },
+ {
+   "storeCode": "58C9PZ",
+   "managerCode": "Y88CAY",
+   "address": "6 Del Sol Pass",
+   "city": "Baltimore",
+   "state": "MD",
+   "zip": "21275",
+   "country": "United States"
+ },
+ {
+   "storeCode": "21R8C2",
+   "managerCode": "HCHNKV",
+   "address": "931 Stone Corner Court",
+   "city": "Colorado Springs",
+   "state": "CO",
+   "zip": "80905",
+   "country": "United States"
+ }
+ ][
+  {
+    "code": "TQSV4S",
+    "manager": {
+      "code": "T73SPZ",
+      "firstName": "Gawain",
+      "lastName": "Dymidowski",
+      "address": {
+        "street": "5 Steensland Junction",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60674",
+        "country": "United States"
+      },
+      "emails": [
+        "gdymidowski8@nba.com"
+      ]
+    },
+    "address": {
+      "street": "284 Vera Hill",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07195",
+      "country": "United States"
+    },
+    "managerCodeStore": "T73SPZ"
+  },
+  {
+    "code": "2E4XXS",
+    "manager": {
+      "code": "JZYHSC",
+      "firstName": "Renaldo",
+      "lastName": "Denslow",
+      "address": {
+        "street": "408 Goodland Park",
+        "city": "Beaufort",
+        "state": "SC",
+        "zip": "29905",
+        "country": "United States"
+      },
+      "emails": [
+        "rdenslow7@dion.ne.jp"
+      ]
+    },
+    "address": {
+      "street": "7 Hovde Park",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68505",
+      "country": "United States"
+    },
+    "managerCodeStore": "JZYHSC"
+  },
+  {
+    "code": "58C9PZ",
+    "manager": {
+      "code": "Y88CAY",
+      "firstName": "Carney",
+      "lastName": "Alywin",
+      "address": {
+        "street": "19 Bluejay Place",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62756",
+        "country": "United States"
+      },
+      "emails": [
+        "calywin6@1688.com"
+      ]
+    },
+    "address": {
+      "street": "6 Del Sol Pass",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21275",
+      "country": "United States"
+    },
+    "managerCodeStore": "Y88CAY"
+  },
+  {
+    "code": "21R8C2",
+    "manager": {
+      "code": "HCHNKV",
+      "firstName": "Obediah",
+      "lastName": "Gulliman",
+      "address": {
+        "street": "6872 Monterey Trail",
+        "city": "South Bend",
+        "state": "IN",
+        "zip": "46620",
+        "country": "United States"
+      },
+      "emails": [
+        "ogulliman5@flickr.com"
+      ]
+    },
+    "address": {
+      "street": "931 Stone Corner Court",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80905",
+      "country": "United States"
+    },
+    "managerCodeStore": "HCHNKV"
+  }
+][
+  {
+    "code": "TQSV4S",
+    "manager": {
+      "code": "T73SPZ",
+      "firstName": "Gawain",
+      "lastName": "Dymidowski",
+      "address": {
+        "street": "5 Steensland Junction",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60674",
+        "country": "United States"
+      },
+      "emails": [
+        "gdymidowski8@nba.com"
+      ]
+    },
+    "address": {
+      "street": "284 Vera Hill",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07195",
+      "country": "United States"
+    },
+    "managerCodeStore": "T73SPZ"
+  },
+  {
+    "code": "2E4XXS",
+    "manager": {
+      "code": "JZYHSC",
+      "firstName": "Renaldo",
+      "lastName": "Denslow",
+      "address": {
+        "street": "408 Goodland Park",
+        "city": "Beaufort",
+        "state": "SC",
+        "zip": "29905",
+        "country": "United States"
+      },
+      "emails": [
+        "rdenslow7@dion.ne.jp"
+      ]
+    },
+    "address": {
+      "street": "7 Hovde Park",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68505",
+      "country": "United States"
+    },
+    "managerCodeStore": "JZYHSC"
+  },
+  {
+    "code": "58C9PZ",
+    "manager": {
+      "code": "Y88CAY",
+      "firstName": "Carney",
+      "lastName": "Alywin",
+      "address": {
+        "street": "19 Bluejay Place",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62756",
+        "country": "United States"
+      },
+      "emails": [
+        "calywin6@1688.com"
+      ]
+    },
+    "address": {
+      "street": "6 Del Sol Pass",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21275",
+      "country": "United States"
+    },
+    "managerCodeStore": "Y88CAY"
+  },
+  {
+    "code": "21R8C2",
+    "manager": {
+      "code": "HCHNKV",
+      "firstName": "Obediah",
+      "lastName": "Gulliman",
+      "address": {
+        "street": "6872 Monterey Trail",
+        "city": "South Bend",
+        "state": "IN",
+        "zip": "46620",
+        "country": "United States"
+      },
+      "emails": [
+        "ogulliman5@flickr.com"
+      ]
+    },
+    "address": {
+      "street": "931 Stone Corner Court",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80905",
+      "country": "United States"
+    },
+    "managerCodeStore": "HCHNKV"
+  }
+][
+  {
+    "code": "TQSV4S",
+    "manager": {
+      "code": "T73SPZ",
+      "firstName": "Gawain",
+      "lastName": "Dymidowski",
+      "address": {
+        "street": "5 Steensland Junction",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60674",
+        "country": "United States"
+      },
+      "emails": [
+        "gdymidowski8@nba.com"
+      ]
+    },
+    "address": {
+      "street": "284 Vera Hill",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07195",
+      "country": "United States"
+    },
+    "managerCodeStore": "T73SPZ"
+  },
+  {
+    "code": "2E4XXS",
+    "manager": {
+      "code": "JZYHSC",
+      "firstName": "Renaldo",
+      "lastName": "Denslow",
+      "address": {
+        "street": "408 Goodland Park",
+        "city": "Beaufort",
+        "state": "SC",
+        "zip": "29905",
+        "country": "United States"
+      },
+      "emails": [
+        "rdenslow7@dion.ne.jp"
+      ]
+    },
+    "address": {
+      "street": "7 Hovde Park",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68505",
+      "country": "United States"
+    },
+    "managerCodeStore": "JZYHSC"
+  },
+  {
+    "code": "58C9PZ",
+    "manager": {
+      "code": "Y88CAY",
+      "firstName": "Carney",
+      "lastName": "Alywin",
+      "address": {
+        "street": "19 Bluejay Place",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62756",
+        "country": "United States"
+      },
+      "emails": [
+        "calywin6@1688.com"
+      ]
+    },
+    "address": {
+      "street": "6 Del Sol Pass",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21275",
+      "country": "United States"
+    },
+    "managerCodeStore": "Y88CAY"
+  },
+  {
+    "code": "21R8C2",
+    "manager": {
+      "code": "HCHNKV",
+      "firstName": "Obediah",
+      "lastName": "Gulliman",
+      "address": {
+        "street": "6872 Monterey Trail",
+        "city": "South Bend",
+        "state": "IN",
+        "zip": "46620",
+        "country": "United States"
+      },
+      "emails": [
+        "ogulliman5@flickr.com"
+      ]
+    },
+    "address": {
+      "street": "931 Stone Corner Court",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80905",
+      "country": "United States"
+    },
+    "managerCodeStore": "HCHNKV"
+  }
+][
+  {
+    "code": "TQSV4S",
+    "manager": {
+      "code": "T73SPZ",
+      "firstName": "Gawain",
+      "lastName": "Dymidowski",
+      "address": {
+        "street": "5 Steensland Junction",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60674",
+        "country": "United States"
+      },
+      "emails": [
+        "gdymidowski8@nba.com"
+      ]
+    },
+    "address": {
+      "street": "284 Vera Hill",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07195",
+      "country": "United States"
+    },
+    "managerCodeStore": "T73SPZ"
+  },
+  {
+    "code": "2E4XXS",
+    "manager": {
+      "code": "JZYHSC",
+      "firstName": "Renaldo",
+      "lastName": "Denslow",
+      "address": {
+        "street": "408 Goodland Park",
+        "city": "Beaufort",
+        "state": "SC",
+        "zip": "29905",
+        "country": "United States"
+      },
+      "emails": [
+        "rdenslow7@dion.ne.jp"
+      ]
+    },
+    "address": {
+      "street": "7 Hovde Park",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68505",
+      "country": "United States"
+    },
+    "managerCodeStore": "JZYHSC"
+  },
+  {
+    "code": "58C9PZ",
+    "manager": {
+      "code": "Y88CAY",
+      "firstName": "Carney",
+      "lastName": "Alywin",
+      "address": {
+        "street": "19 Bluejay Place",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62756",
+        "country": "United States"
+      },
+      "emails": [
+        "calywin6@1688.com"
+      ]
+    },
+    "address": {
+      "street": "6 Del Sol Pass",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21275",
+      "country": "United States"
+    },
+    "managerCodeStore": "Y88CAY"
+  },
+  {
+    "code": "21R8C2",
+    "manager": {
+      "code": "HCHNKV",
+      "firstName": "Obediah",
+      "lastName": "Gulliman",
+      "address": {
+        "street": "6872 Monterey Trail",
+        "city": "South Bend",
+        "state": "IN",
+        "zip": "46620",
+        "country": "United States"
+      },
+      "emails": [
+        "ogulliman5@flickr.com"
+      ]
+    },
+    "address": {
+      "street": "931 Stone Corner Court",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80905",
+      "country": "United States"
+    },
+    "managerCodeStore": "HCHNKV"
+  }
+][
+  {
+    "code": "TQSV4S",
+    "manager": {
+      "code": "T73SPZ",
+      "firstName": "Gawain",
+      "lastName": "Dymidowski",
+      "address": {
+        "street": "5 Steensland Junction",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60674",
+        "country": "United States"
+      },
+      "emails": [
+        "gdymidowski8@nba.com"
+      ]
+    },
+    "address": {
+      "street": "284 Vera Hill",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07195",
+      "country": "United States"
+    },
+    "managerCodeStore": "T73SPZ"
+  },
+  {
+    "code": "2E4XXS",
+    "manager": {
+      "code": "JZYHSC",
+      "firstName": "Renaldo",
+      "lastName": "Denslow",
+      "address": {
+        "street": "408 Goodland Park",
+        "city": "Beaufort",
+        "state": "SC",
+        "zip": "29905",
+        "country": "United States"
+      },
+      "emails": [
+        "rdenslow7@dion.ne.jp"
+      ]
+    },
+    "address": {
+      "street": "7 Hovde Park",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68505",
+      "country": "United States"
+    },
+    "managerCodeStore": "JZYHSC"
+  },
+  {
+    "code": "58C9PZ",
+    "manager": {
+      "code": "Y88CAY",
+      "firstName": "Carney",
+      "lastName": "Alywin",
+      "address": {
+        "street": "19 Bluejay Place",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62756",
+        "country": "United States"
+      },
+      "emails": [
+        "calywin6@1688.com"
+      ]
+    },
+    "address": {
+      "street": "6 Del Sol Pass",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21275",
+      "country": "United States"
+    },
+    "managerCodeStore": "Y88CAY"
+  },
+  {
+    "code": "21R8C2",
+    "manager": {
+      "code": "HCHNKV",
+      "firstName": "Obediah",
+      "lastName": "Gulliman",
+      "address": {
+        "street": "6872 Monterey Trail",
+        "city": "South Bend",
+        "state": "IN",
+        "zip": "46620",
+        "country": "United States"
+      },
+      "emails": [
+        "ogulliman5@flickr.com"
+      ]
+    },
+    "address": {
+      "street": "931 Stone Corner Court",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80905",
+      "country": "United States"
+    },
+    "managerCodeStore": "HCHNKV"
+  }
+][
+  {
+    "code": "TQSV4S",
+    "manager": {
+      "code": "T73SPZ",
+      "firstName": "Gawain",
+      "lastName": "Dymidowski",
+      "address": {
+        "street": "5 Steensland Junction",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60674",
+        "country": "United States"
+      },
+      "emails": [
+        "gdymidowski8@nba.com"
+      ]
+    },
+    "address": {
+      "street": "284 Vera Hill",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07195",
+      "country": "United States"
+    },
+    "managerCodeStore": "T73SPZ"
+  },
+  {
+    "code": "2E4XXS",
+    "manager": {
+      "code": "JZYHSC",
+      "firstName": "Renaldo",
+      "lastName": "Denslow",
+      "address": {
+        "street": "408 Goodland Park",
+        "city": "Beaufort",
+        "state": "SC",
+        "zip": "29905",
+        "country": "United States"
+      },
+      "emails": [
+        "rdenslow7@dion.ne.jp"
+      ]
+    },
+    "address": {
+      "street": "7 Hovde Park",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68505",
+      "country": "United States"
+    },
+    "managerCodeStore": "JZYHSC"
+  },
+  {
+    "code": "58C9PZ",
+    "manager": {
+      "code": "Y88CAY",
+      "firstName": "Carney",
+      "lastName": "Alywin",
+      "address": {
+        "street": "19 Bluejay Place",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62756",
+        "country": "United States"
+      },
+      "emails": [
+        "calywin6@1688.com"
+      ]
+    },
+    "address": {
+      "street": "6 Del Sol Pass",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21275",
+      "country": "United States"
+    },
+    "managerCodeStore": "Y88CAY"
+  },
+  {
+    "code": "21R8C2",
+    "manager": {
+      "code": "HCHNKV",
+      "firstName": "Obediah",
+      "lastName": "Gulliman",
+      "address": {
+        "street": "6872 Monterey Trail",
+        "city": "South Bend",
+        "state": "IN",
+        "zip": "46620",
+        "country": "United States"
+      },
+      "emails": [
+        "ogulliman5@flickr.com"
+      ]
+    },
+    "address": {
+      "street": "931 Stone Corner Court",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80905",
+      "country": "United States"
+    },
+    "managerCodeStore": "HCHNKV"
+  }
+]

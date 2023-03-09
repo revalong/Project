@@ -1,0 +1,3821 @@
+[
+ {
+   "code": "n3453js",
+   "type": "P",
+   "name": "Fertilizer",
+   "unit": "liter",
+   "price": 10.25
+ },
+ {
+   "code": "3506f6",
+   "type": "E",
+   "name": "Backhoe",
+   "unit": "BidDoug X25",
+   "price": null
+ },
+ {
+   "code": "n43k2l3",
+   "type": "S",
+   "name": "Plowing",
+   "unit": "1000",
+   "price": null
+ },
+ {
+   "code": "8432941",
+   "type": "S",
+   "name": "Cattle Vaccination",
+   "unit": "225.50",
+   "price": null
+ },
+ {
+   "code": "432kn2l",
+   "type": "S",
+   "name": "Tractor Driving Lessons",
+   "unit": "25",
+   "price": null
+ },
+ {
+   "code": "2334b23",
+   "type": "S",
+   "name": "Delivery",
+   "unit": "100",
+   "price": null
+ },
+ {
+   "code": "1d4d89",
+   "type": "E",
+   "name": "Tractor",
+   "unit": "MegaTract 150HP",
+   "price": null
+ },
+ {
+   "code": "23n4kl2",
+   "type": "P",
+   "name": "Top soil",
+   "unit": "ton",
+   "price": 850
+ },
+ {
+   "code": "l4k32j4",
+   "type": "P",
+   "name": "Wire fencing",
+   "unit": "lft",
+   "price": 8
+ }
+][
+  {
+    "code": "n3453js",
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "code": "n43k2l3",
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "8432941",
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "code": "432kn2l",
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "2334b23",
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "code": "23n4kl2",
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "l4k32j4",
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "type": "Fertilizer"
+  },
+  {
+    "type": "E",
+    "equipment": {
+      "code": "3506f6",
+      "name": "Backhoe",
+      "model": "BidDoug X25",
+      "price": 0.0
+    }
+  },
+  {
+    "type": "S",
+    "service": {
+      "name": "Plowing",
+      "hourlyRate": 1000.0,
+      "numHours": 0.0
+    }
+  },
+  {
+    "type": "S",
+    "service": {
+      "name": "Cattle Vaccination",
+      "hourlyRate": 225.5,
+      "numHours": 0.0
+    }
+  },
+  {
+    "type": "S",
+    "service": {
+      "name": "Tractor Driving Lessons",
+      "hourlyRate": 25.0,
+      "numHours": 0.0
+    }
+  },
+  {
+    "type": "S",
+    "service": {
+      "name": "Delivery",
+      "hourlyRate": 100.0,
+      "numHours": 0.0
+    }
+  },
+  {
+    "type": "E",
+    "equipment": {
+      "code": "1d4d89",
+      "name": "Tractor",
+      "model": "MegaTract 150HP",
+      "price": 0.0
+    }
+  },
+  {
+    "type": "Top soil"
+  },
+  {
+    "type": "Wire fencing"
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unit": "liter",
+    "unitPrice": 10.25,
+    "unitsPurchased": 0.0
+  },
+  {
+    "code": "3506f6",
+    "name": "Backhoe",
+    "model": "BidDoug X25",
+    "price": 0.0
+  },
+  {
+    "name": "Plowing",
+    "hourlyRate": 1000.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Cattle Vaccination",
+    "hourlyRate": 225.5,
+    "numHours": 0.0
+  },
+  {
+    "name": "Tractor Driving Lessons",
+    "hourlyRate": 25.0,
+    "numHours": 0.0
+  },
+  {
+    "name": "Delivery",
+    "hourlyRate": 100.0,
+    "numHours": 0.0
+  },
+  {
+    "code": "1d4d89",
+    "name": "Tractor",
+    "model": "MegaTract 150HP",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unit": "ton",
+    "unitPrice": 850.0,
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unit": "lft",
+    "unitPrice": 8.0,
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unitsPurchased": 0.0
+  },
+  {
+    "price": 0.0,
+    "type": "E"
+  },
+  {
+    "numHours": 0.0,
+    "type": "S"
+  },
+  {
+    "numHours": 0.0,
+    "type": "S"
+  },
+  {
+    "numHours": 0.0,
+    "type": "S"
+  },
+  {
+    "numHours": 0.0,
+    "type": "S"
+  },
+  {
+    "price": 0.0,
+    "type": "E"
+  },
+  {
+    "name": "Top soil",
+    "unitsPurchased": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unitsPurchased": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unitsPurchased": 0.0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0.0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0.0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0.0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0.0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unitsPurchased": 0.0,
+    "price": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unitsPurchased": 0.0,
+    "price": 0.0
+  }
+][
+  {
+    "name": "Fertilizer",
+    "unitsPurchased": 0.0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0.0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0.0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0.0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0.0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "name": "Top soil",
+    "unitsPurchased": 0.0,
+    "price": 0.0
+  },
+  {
+    "name": "Wire fencing",
+    "unitsPurchased": 0.0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+][
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "numHours": 0,
+    "type": "S",
+    "price": 0.0
+  },
+  {
+    "type": "E",
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  },
+  {
+    "unitsPurchased": 0,
+    "price": 0.0
+  }
+]

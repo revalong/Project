@@ -1,0 +1,15 @@
+----------------------------------------------------------
+| Sales by Customer                                      |
+----------------------------------------------------------
+Sale     Store     Customer         SalesPerson         Total
+INV001   6ZN66E   Dore,Prandy       Berke,Harral 
+INV002   TQSV4S   Dorthy,Jones      Wendie,Grimestone
+INV003   2E4XXS   Mikol,Castagnasso Obediah,Gulliman 
+----------------------------------------------------------
+| Sales by Total                                         |
+----------------------------------------------------------
+
+
+
+
+

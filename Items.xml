@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <code>n3453js</code>
+    <type>P</type>
+    <name>Fertilizer</name>
+    <unit>liter</unit>
+    <price>10.25</price>
+  </row>
+  <row>
+    <code>3506f6</code>
+    <type>E</type>
+    <name>Backhoe</name>
+    <unit>BidDoug X25</unit>
+    <price></price>
+  </row>
+  <row>
+    <code>n43k2l3</code>
+    <type>S</type>
+    <name>Plowing</name>
+    <unit>1000</unit>
+    <price></price>
+  </row>
+  <row>
+    <code>8432941</code>
+    <type>S</type>
+    <name>Cattle Vaccination</name>
+    <unit>225.50</unit>
+    <price></price>
+  </row>
+  <row>
+    <code>432kn2l</code>
+    <type>S</type>
+    <name>Tractor Driving Lessons</name>
+    <unit>25</unit>
+    <price></price>
+  </row>
+  <row>
+    <code>2334b23</code>
+    <type>S</type>
+    <name>Delivery</name>
+    <unit>100</unit>
+    <price></price>
+  </row>
+  <row>
+    <code>1d4d89</code>
+    <type>E</type>
+    <name>Tractor</name>
+    <unit>MegaTract 150HP</unit>
+    <price></price>
+  </row>
+  <row>
+    <code>23n4kl2</code>
+    <type>P</type>
+    <name>Top soil</name>
+    <unit>ton</unit>
+    <price>850</price>
+  </row>
+  <row>
+    <code>l4k32j4</code>
+    <type>P</type>
+    <name>Wire fencing</name>
+    <unit>lft</unit>
+    <price>8</price>
+  </row>
+</root>
